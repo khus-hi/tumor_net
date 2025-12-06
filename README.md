@@ -1,6 +1,6 @@
 # TumorNet
 
-Multi-class MRI tumor diagnosis using ViT, ResNet-50, and Explainable AI (Grad-CAM + Saliency Maps)
+Multi-class MRI tumor diagnosis using ViT, ResNet-50 and Explainable AI (Grad-CAM + Saliency Maps)
 
 ## Overview
 
